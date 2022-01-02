@@ -4,12 +4,16 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-posts
-  label: Posts
+- type: directory
+  path: caselaw
+  label: Case Law Resources
   create: all
-- type: jekyll-pages
-  label: Pages
-  create: all
+  match: "**/*"
+- type: directory
+  path: guidelines
+  label: Guidelines
+  create: documents
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
