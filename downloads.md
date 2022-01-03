@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Downloads
-permalink: /Downloads
-nav_order: 3
----
+permalink: "/downloads"
+nav_order: "3"
 
+---
 # Downloads
 
 [DDE in International Criminal Law](/assets/DDE in ICL.pdf){: .btn}

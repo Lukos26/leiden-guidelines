@@ -17,7 +17,6 @@ sections:
 - type: document
   path: downloads.md
   label: Downloads
-  match: "**/*"
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
