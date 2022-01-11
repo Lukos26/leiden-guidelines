@@ -4,20 +4,7 @@ title: Guidelines
 permalink: "/guidelines/index"
 has_children: true
 nav_order: "1"
-
 ---
-<details open markdown="block">
-<summary>
-On this page
-</summary>
-{: .text-delta }
-
-* TOC
-  {:toc}
-  </details>
-
-definition
-{: .label }
 
 # Introduction
 
