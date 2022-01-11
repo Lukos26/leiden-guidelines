@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: guideline
 title: D Intercepted Communications
 permalink: /guidelines/d-intercepted-communications
 parent: Guidelines

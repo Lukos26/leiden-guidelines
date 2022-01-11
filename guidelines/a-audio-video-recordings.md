@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: guideline
 title: A Audio and Video Recordings
 permalink: /guidelines/a-audio-video-recordings
 parent: Guidelines

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: guideline
 title: F Social Media Posts
 permalink: /guidelines/f-social-media-posts
 parent: Guidelines

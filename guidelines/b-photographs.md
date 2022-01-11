@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: guideline
 title: B Photographs
 permalink: /guidelines/b-photographs
 parent: Guidelines

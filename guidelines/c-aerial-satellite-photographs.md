@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: guideline
 title: C Aerial and Satellite Photographs
 permalink: /guidelines/c-aerial-satellite-photographs
 parent: Guidelines
