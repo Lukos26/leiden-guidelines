@@ -1,10 +1,10 @@
 ---
 layout: guideline
 title: Guidelines
-permalink: "/guidelines/index"
+permalink: /guidelines/index
 has_children: true
 has_toc: false
-nav_order: "1"
+nav_order: 1
 ---
 
 # Introduction
@@ -43,6 +43,6 @@ Each set of Guidelines adopts the ICC's three-pronged approach towards evidence[
 
 [^2]: International Bar Association, [_Evidence Matters in ICC Trials_](https://www.ibanet.org/document?id=Evidence-matters-in-icc-trials) (August 2016) 19.
 
-[^3]: Alexa Koenig and others, <span class="underline">Digital Fingerprints: Using Electronic Evidence to Advance Prosecutions at the International Criminal Court</span> (Human Rights Center, UC Berkeley School of Law 2014) fn 2, citing Stephen Mason, International Electronic Evidence (British Institute of International and Comparative Law 2008).
+[^3]: Alexa Koenig and others, [Digital Fingerprints: Using Electronic Evidence to Advance Prosecutions at the International Criminal Court](https://humanrights.berkeley.edu/sites/default/files/publications/digital-fingerprints.pdf) (Human Rights Center, UC Berkeley School of Law 2014) fn 2, citing Stephen Mason, International Electronic Evidence (British Institute of International and Comparative Law 2008).
 
 [^4]: _Prosecutor v Bemba_ ([Decision on the admission into evidence of items deferred in the Chamber's "Decision on the Prosecution's Application for Admission of Materials into Evidence Pursuant to Article 64(9) of the Rome Statute" (ICC-01/05-01/08-2299)](https://www.legal-tools.org/doc/9037fc/)) ICC-01/05-01/08 (27 June 2013) [9].
