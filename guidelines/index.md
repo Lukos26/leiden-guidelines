@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: guideline
 title: Guidelines
 permalink: "/guidelines/index"
 has_children: true
