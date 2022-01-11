@@ -16,6 +16,8 @@ On this page
   {:toc}
   </details>
 
+definition {: .label }
+
 # Introduction
 
 Digitally Derived Evidence (DDE) has been increasingly used by international criminal courts and tribunals to prosecute perpetrators of international crimes. Advanced digital tools - including aerial photography, mobile devices, video, intercepted communications, amongst others - capture new and vast quantities of data, which can add supplementary and supporting data to existing evidence. For example, while an eyewitness account may provide relevant information regarding an event, a satellite image may unearth information that would be otherwise inaccessible. Furthermore, phone and computer records may provide data relevant to an individual's activities, or a video may be geo-located and consequently allow investigators to see environmental details that a witness may have forgotten.\[^1\] Given the proliferation of digital evidence and increasing reliance on digital evidence for prosecutions, it is possible that in the future, digital evidence may be the primary evidence upon which some convictions are based. While the significant potential of DDE in international criminal law is indisputable, its use raises numerous challenges and legal questions. Therefore, the Guidelines aim to address this legal lacuna by examining the different evidentiary concerns relating to DDE before the international criminal courts and tribunals.
