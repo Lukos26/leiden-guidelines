@@ -16,7 +16,8 @@ On this page
   {:toc}
   </details>
 
-definition {: .label }
+definition
+{: .label }
 
 # Introduction
 
