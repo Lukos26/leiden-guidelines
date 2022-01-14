@@ -17,6 +17,12 @@ nav_order: 1
 
 # Introduction
 
+definition
+{: .label }
+
+introduction
+{: .label }
+
 Digitally Derived Evidence (DDE) has been increasingly used by international criminal courts and tribunals to prosecute perpetrators of international crimes. Advanced digital tools - including aerial photography, mobile devices, video, intercepted communications, amongst others - capture new and vast quantities of data, which can add supplementary and supporting data to existing evidence. For example, while an eyewitness account may provide relevant information regarding an event, a satellite image may unearth information that would be otherwise inaccessible. Furthermore, phone and computer records may provide data relevant to an individual's activities, or a video may be geo-located and consequently allow investigators to see environmental details that a witness may have forgotten.[^1] Given the proliferation of digital evidence and increasing reliance on digital evidence for prosecutions, it is possible that in the future, digital evidence may be the primary evidence upon which some convictions are based. While the significant potential of DDE in international criminal law is indisputable, its use raises numerous challenges and legal questions. Therefore, the Guidelines aim to address this legal lacuna by examining the different evidentiary concerns relating to DDE before the international criminal courts and tribunals.
 
 The Guidelines are intended to assist practitioners by providing, in a concise manner, the essential elements to be considered before submitting DDE before an international criminal court or tribunal. As they are aimed at legal practitioners, the Guidelines have been designed to be practical and easily accessible whilst also being sufficiently detailed, comprehensive, and substantiated. A subsidiary goal of the Guidelines is knowledge management. The knowledge that has been created should be retained and applied. Recognising that this is a developing area of legal practice, the Guidelines were designed to be flexible enough to accommodate future developments within its existing framework and structure, with an emphasis on maintainability and expandability.
