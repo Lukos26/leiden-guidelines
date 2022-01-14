@@ -28,6 +28,7 @@ twitter_username: KGFLeiden
 theme: just-the-docs
 plugins:
   - jekyll-seo-tag
+  - jekyll-target-blank
 
 # Theme settings
 logo: /assets/KGFlight.png

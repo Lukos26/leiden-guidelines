@@ -6,6 +6,14 @@ has_children: true
 has_toc: false
 nav_order: 1
 ---
+<details open markdown="block">
+  <summary>
+    On this page
+  </summary>
+  {: .text-delta }
+* TOC
+{:toc}
+</details>
 
 # Introduction
 
