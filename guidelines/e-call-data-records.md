@@ -1,5 +1,4 @@
 ---
-layout: guideline
 title: E Call Data Records
 permalink: /guidelines/e-call-data-records
 parent: Guidelines
