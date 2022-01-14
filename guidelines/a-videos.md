@@ -1,4 +1,5 @@
 ---
+layout: default
 title: A Videos
 permalink: /guidelines/a-videos
 parent: Guidelines

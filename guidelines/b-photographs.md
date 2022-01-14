@@ -1,4 +1,5 @@
 ---
+layout: default
 title: B Photographs
 permalink: /guidelines/b-photographs
 parent: Guidelines

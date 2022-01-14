@@ -1,4 +1,5 @@
 ---
+layout: default
 title: F Audio Recordings
 permalink: /guidelines/f-audio-recordings
 parent: Guidelines
