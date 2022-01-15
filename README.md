@@ -2,7 +2,7 @@
 
 ## Structure of the Repository
 
-To bake a cake, one applies a recipe to ingredients (so to speak). In the same way, the website is constructed by applying a set of website-generation instructions (formatting, page structure, etc) to content (the Guidelines). To facilitate orientation, this is a brief classification and explanation of each of the files in the repository.
+To bake a cake, one applies a recipe to ingredients (so to speak). In the same way, the website is constructed by applying a set of website-generation instructions (formatting, page structure, etc) to content (the Guidelines). Finally, the cake must be delivered to the customer. Similarly, the website is deployed through Netlify. To facilitate orientation, this is a brief classification and explanation of each of the files in the repository.
 
 ### Recipe
 
@@ -29,7 +29,32 @@ There are also a number of other supplementary content files and folders:
 
 Finally, the repository comes with this `readme.md` file you're reading now. It's not part of the website, but (hopefully!) helps with navigating the files and folders here.
 
+### Delivery
+
+Netlify reads the recipe and takes the ingredients to bake the cake (build the website) and then delivers it (deploys the website). This happens automatically every time an update is pushed to the repository. Netlify settings are managed separately on the [Netlify website](https://app.netlify.com/) and not through the repository.
+
 ## Notes for Content Editors
+
+### Front Matter
+
+Each content page starts with a set of parameters which provide Jekyll with additional information about it. These parameters must be at the beginning, or front, of each page, so they are called front matter. This is the front matter used in the Guidelines pages:
+```
+---
+layout: default
+title: A Videos
+permalink: /guidelines/a-videos
+parent: Guidelines
+nav_order: 1
+---
+```
+
+Some additional details:
+- layout: The website is simple and text-based, so the default layout is used. In more complex websites, different layouts may be helpful. For example, an online shop might have a specific page layout for product pages.
+- permalink: This sets the hyperlink for the webpage.
+- parent: The DDE categories are 'children' of the 'parent' Guidelines section. FYI: In the front matter of the parent Guidelines section, this line is replaced with `has_children: true`!
+- nav_order: The pages will be arranged in the sidebar accordance to its nav(igation) order.
+
+### Formatting
 
 The content pages are formatted with the help of Markdown. See this [cheat sheet](https://www.markdownguide.org/cheat-sheet/) for a quick introduction to the most frequently used elements.
 
