@@ -28,3 +28,5 @@ Keywords: relevance, probative value
 ```
 
 - Italicise sub-headings within the commentary, followed by a full stop: `*Time Limits*. Pursuant to ...`
+
+- Place all footnotes (citations) at the end of the document
